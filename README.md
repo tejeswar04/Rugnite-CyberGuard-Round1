@@ -1,6 +1,6 @@
 # CyberGuard: AI-Powered Cybercrime Classification
 
-A robust NLP pipeline for classifying cybercrime complaints using hierarchical classification with specialized handling of Hinglish text. **Winner of the IndiaAI CyberGuard Hackathon 2024**.
+A robust NLP pipeline for classifying cybercrime complaints using hierarchical classification with specialized handling of Hinglish text.
 
 ---
 
